@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=christianLuis07&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianLuis07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianLuis07&show_icons=true&hide_border=true&layout=compact&hide=blade&show_icons=true&title_color=e91e63&text_color=9ca3af&icon_color=e91e63&bg_color=181818&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+
 
 
 
