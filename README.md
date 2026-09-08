@@ -1,5 +1,7 @@
 <h1>Hi, I'm Christian Luis Paskalis Ginting</h1>
 
+![](https://komarev.com/ghpvc/?username=christianLuis07&color=green)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrisstianluis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/) 
 
@@ -15,4 +17,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=christianLuis07&icon=0&color=0)](https://visitcount.itsvg.in)
+
