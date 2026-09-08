@@ -2,7 +2,7 @@
 
 I am a passionate Software Developer and Cyber Security student with experience in building secure, scalable modern web applications. I enjoy writing clean code, exploring server infrastructure, and developing software solutions using various programming languages and frameworks.
 
-![](https://komarev.com/ghpvc/?username=christianLuis07&color=green)
+![](https://komarev.com/ghpvc/?username=christianLuis07&color=green) ![](https://img.shields.io/github/followers/christianLuis07?style=for-the-badge&color=green)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrisstianluis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/) 
