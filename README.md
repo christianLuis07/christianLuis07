@@ -1,5 +1,7 @@
 <h1>Hi, I'm Christian Luis Paskalis Ginting</h1>
 
+I am a passionate Software Developer and Cyber Security student with experience in building secure, scalable modern web applications. I enjoy writing clean code, exploring server infrastructure, and developing software solutions using various programming languages and frameworks.
+
 ![](https://komarev.com/ghpvc/?username=christianLuis07&color=green)
 
 ## 🌐 Socials:
