@@ -4,6 +4,12 @@ I am a passionate Software Developer and Cyber Security student with experience 
 
 ![](https://komarev.com/ghpvc/?username=christianLuis07&label=Profile+Views&color=green&style=for-the-badge) ![](https://img.shields.io/github/followers/christianLuis07?style=for-the-badge&color=green)
 
+### 🔍 About Me
+- 🎓 Focusing on **Cybersecurity** and **Modern Software Development**.
+- 💻 Experienced in building full-stack applications with clean architecture and robust database design.
+- 🛡️ Interested in Application Security, Zero Trust architecture, and secure backend systems.
+- 💬 Connect with me on social platforms or check out my repositories below.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrisstianluis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/) 
 
