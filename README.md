@@ -4,6 +4,8 @@ I am a passionate Software Developer and Cyber Security student with experience 
 
 ![](https://komarev.com/ghpvc/?username=christianLuis07&label=Profile+Views&color=green&style=for-the-badge) ![](https://img.shields.io/github/followers/christianLuis07?style=for-the-badge&color=green)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Christian+Luis+Paskalis+Ginting;Software+Developer;Cyber+Security+Student;AI+Enginner+Enthusiast)](https://git.io/typing-svg)
+
 ### 🔍 About Me
 - 🎓 Focusing on **Cybersecurity** and **Modern Software Development**.
 - 💻 Experienced in building full-stack applications with clean architecture and robust database design.
