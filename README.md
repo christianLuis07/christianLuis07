@@ -14,7 +14,7 @@ I am a passionate Software Developer and Cyber Security student with experience 
   
 
 ## 🌐 Socials:
-<h1>Christian Luis Paskalis Ginting</h1>
+<h1>Christian Luis Paskalis Ginting</h1> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrisstianluis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/) 
 
