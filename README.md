@@ -36,6 +36,8 @@ I am a passionate Software Developer and Cyber Security student with experience 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🌐 Top Language
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&size_weight=0.5&count_weight=0.5)
 </div>
 
 ---
