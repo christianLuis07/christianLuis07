@@ -4,7 +4,7 @@
   <h1 align="center">Christian Luis Paskalis Ginting</h1>
   
   <p align="center">
-    <strong>Software Developer • Cybersecurity Specialist • Full-Stack Engineer</strong>
+    <strong>Software Developer • Cybersecurity Enthusiast • AI Engineer Enthusiast</strong>
   </p>
 
   <!-- Dynamic Typing Banner with full name & primary competencies -->
