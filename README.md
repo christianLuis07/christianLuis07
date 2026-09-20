@@ -4,34 +4,36 @@
   <h1 align="center">Christian Luis Paskalis Ginting</h1>
   
   <p align="center">
-    <strong>Software Developer • Cybersecurity Enthusiast • AI Engineer Enthusiast</strong>
+    <strong>Software Developer • Cyber Security Student • AI Engineer Enthusiast</strong>
   </p>
 
-  <!-- Dynamic Typing Banner with full name & primary competencies -->
+  <!-- Dynamic Typing Banner with full name & the 3 core identities -->
   <a href="https://github.com/christianLuis07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=620&lines=Christian+Luis+Paskalis+Ginting;Software+Developer+%26+Cybersecurity;Full+Stack+Application+Architect;Zero-Trust+%26+AppSec+Enthusiast" alt="Christian Luis Paskalis Ginting - Software Developer and Cyber Security Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=Christian+Luis+Paskalis+Ginting;Software+Developer;Cyber+Security+Student;AI+Engineer+Enthusiast" alt="Christian Luis Paskalis Ginting - Software Developer, Cyber Security Student, AI Engineer Enthusiast" />
   </a>
 
   <br/><br/>
 
-  <!-- Metric Badges with Descriptive Alt Tags for Google Image & Keyword Search -->
+  <!-- Metric Badges with Descriptive Alt Tags for Google Search Indexing -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=christianLuis07&label=Profile+Views&color=22c55e&style=for-the-badge" alt="Christian Luis Paskalis Ginting GitHub Profile Views Counter" title="Christian Luis Paskalis Ginting Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=christianLuis07&label=Profile+Views&color=22c55e&style=for-the-badge" alt="Christian Luis Paskalis Ginting GitHub Profile Views" title="Christian Luis Paskalis Ginting Profile Views" />
     <a href="https://github.com/christianLuis07?tab=followers">
       <img src="https://img.shields.io/github/followers/christianLuis07?style=for-the-badge&color=22c55e&logo=github" alt="Follow Christian Luis Paskalis Ginting on GitHub" title="Christian Luis Paskalis Ginting Followers" />
     </a>
   </p>
 
-  <!-- Authority Social Links (Canonical Entity Signals) -->
+  <!-- Clean Social Media Badges (Platform Name Only) -->
   <p align="center">
     <a href="https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Christian%20Luis%20Paskalis%20Ginting-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christian Luis Paskalis Ginting LinkedIn Profile" />
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christian Luis Paskalis Ginting on LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://instagram.com/chrisstianluis_" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-@chrisstianluis_-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Christian Luis Paskalis Ginting Instagram Profile" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Christian Luis Paskalis Ginting on Instagram" />
     </a>
+    &nbsp;
     <a href="https://github.com/christianLuis07" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-christianLuis07-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Christian Luis Paskalis Ginting GitHub Repository" />
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Christian Luis Paskalis Ginting on GitHub" />
     </a>
   </p>
 
@@ -39,65 +41,59 @@
 
 ---
 
-## 📌 Executive Summary & Profile (About Christian Luis Paskalis Ginting)
+## 📌 About Me
 
 <p>
-Hello! I am <strong>Christian Luis Paskalis Ginting</strong> (commonly known as <strong>Christian Luis</strong> or online as <strong><a href="https://github.com/christianLuis07">christianLuis07</a></strong>), a dedicated <strong>Software Developer</strong> and <strong>Cyber Security</strong> specialist based in Indonesia.
+Hi, I'm <strong>Christian Luis Paskalis Ginting</strong> (often known as <strong>Christian Luis</strong> or <strong><a href="https://github.com/christianLuis07">christianLuis07</a></strong>), based in Indonesia. I am deeply focused on:
 </p>
 
-<p>
-My primary focus spans high-performance modern web application development, resilient backend architecture, and defensive application security (AppSec). I engineer scalable software solutions incorporating zero-trust principles, clean code patterns, and modern relational/NoSQL database designs.
-</p>
+- 💻 **Software Developer**: Building scalable, robust web applications with clean code, efficient backend systems, and modern architectural patterns.
+- 🛡️ **Cyber Security Student**: Exploring application security, network defense, secure coding practices, and vulnerability assessment.
+- 🤖 **AI Engineer Enthusiast**: Passionate about artificial intelligence, modern machine learning tools, LLM integrations, and intelligent software engineering.
 
-<!-- Entity Knowledge Table (Parsed with high priority by search crawlers for Google Featured Snippets) -->
-### 🔍 Quick Facts & Digital Identity
+<!-- Entity Knowledge Table (Parsed by Google for Rich Snippets) -->
+### 🔍 Quick Profile & Entity Details
 
 | Attribute | Details |
 | :--- | :--- |
-| **Full Legal Name** | **Christian Luis Paskalis Ginting** |
-| **Alternative Names** | Christian Luis, Christian Luis Ginting, christianLuis07 |
-| **Primary Disciplines** | Software Engineering, Full-Stack Web Development, Cybersecurity |
-| **Core Interests** | Application Security (AppSec), Cloud Infrastructure, Zero-Trust Architecture, RESTful & RPC APIs |
-| **GitHub Handle** | [@christianLuis07](https://github.com/christianLuis07) |
-| **Professional Profiles** | [LinkedIn Profile](https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/) • [GitHub Overview](https://github.com/christianLuis07) • [Instagram](https://instagram.com/chrisstianluis_) |
+| **Full Name** | **Christian Luis Paskalis Ginting** |
+| **Known As** | Christian Luis, christianLuis07 |
+| **Roles** | Software Developer • Cyber Security Student • AI Engineer Enthusiast |
+| **GitHub** | [@christianLuis07](https://github.com/christianLuis07) |
+| **Socials** | [LinkedIn](https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/) • [Instagram](https://instagram.com/chrisstianluis_) • [GitHub](https://github.com/christianLuis07) |
 
 ---
 
-## 💻 Technical Expertise & Stack
+## 💻 Tech Stack & Skills
 
 <p>
-A curated selection of programming languages, frameworks, runtime environments, and developer utilities actively utilized in production and security-critical projects:
+Technologies, languages, and frameworks used across software development, cybersecurity labs, and AI exploration:
 </p>
 
-### 🛠️ Programming Languages
+### 🛠️ Languages
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Christian Luis Paskalis Ginting - TypeScript Developer" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Christian Luis Paskalis Ginting - JavaScript Developer" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Christian Luis Paskalis Ginting - C# Programming" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Christian Luis Paskalis Ginting - Python Security & Scripting" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Christian Luis Paskalis Ginting - Java Development" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Christian Luis Paskalis Ginting - Kotlin Development" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Christian Luis Paskalis Ginting - PHP Backend" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Christian Luis Paskalis Ginting - TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Christian Luis Paskalis Ginting - JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Christian Luis Paskalis Ginting - C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Christian Luis Paskalis Ginting - Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Christian Luis Paskalis Ginting - Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Christian Luis Paskalis Ginting - Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Christian Luis Paskalis Ginting - PHP" />
 </p>
 
-### 🚀 Frameworks & Runtimes
+### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Christian Luis Paskalis Ginting - Next.js Full Stack" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Christian Luis Paskalis Ginting - React Frontend" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Christian Luis Paskalis Ginting - Express.js REST APIs" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Christian Luis Paskalis Ginting - .NET Architecture" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Christian Luis Paskalis Ginting - FastAPI Microservices" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Christian Luis Paskalis Ginting - Laravel Development" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Christian Luis Paskalis Ginting - Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Christian Luis Paskalis Ginting - React" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Christian Luis Paskalis Ginting - Express.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Christian Luis Paskalis Ginting - .NET" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Christian Luis Paskalis Ginting - FastAPI" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Christian Luis Paskalis Ginting - Laravel" />
 </p>
-
-### 🛡️ Cybersecurity & Architecture Practices
-- **Application Security**: OWASP Top 10 mitigation, secure credential storage, role-based access control (RBAC), and session security.
-- **Backend Architecture**: Clean Architecture, Domain-Driven Design (DDD) concepts, RESTful API design, and asynchronous workers.
-- **Data & Performance**: Optimized relational schemas, database indexing, caching strategies, and load efficiency.
 
 ---
 
-## 📊 GitHub Analytics & Repository Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -112,7 +108,7 @@ A curated selection of programming languages, frameworks, runtime environments, 
     <tr>
       <td align="center" colspan="2">
         <br/>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=christianLuis07&layout=compact&size_weight=2.5&count_weight=0.5&theme=dark&hide_border=false" alt="Christian Luis Paskalis Ginting Most Used Programming Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=christianLuis07&layout=compact&size_weight=2.5&count_weight=0.5&theme=dark&hide_border=false" alt="Christian Luis Paskalis Ginting Top Languages" />
       </td>
     </tr>
   </table>
@@ -120,29 +116,29 @@ A curated selection of programming languages, frameworks, runtime environments, 
   <br/>
 
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Engineering Inspiration Quote for Christian Luis Paskalis Ginting" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote for Christian Luis Paskalis Ginting" />
   </p>
 </div>
 
 ---
 
-## 📬 Connect with Christian Luis Paskalis Ginting
+## 📬 Connect
 
 <p align="center">
-  Interested in collaborating on software projects, cybersecurity research, or architectural consultations? Feel free to connect via the official channels below:
+  Feel free to reach out for software collaborations, cybersecurity discussions, or AI projects:
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-luis-paskalis-ginting-85abbb2a2/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christian Luis Paskalis Ginting on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christian Luis Paskalis Ginting on LinkedIn" />
   </a>
   &nbsp;
   <a href="https://instagram.com/chrisstianluis_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20@chrisstianluis_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Christian Luis Paskalis Ginting on Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Follow Christian Luis Paskalis Ginting on Instagram" />
   </a>
   &nbsp;
   <a href="https://github.com/christianLuis07" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Christian Luis Paskalis Ginting GitHub Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Christian Luis Paskalis Ginting on GitHub" />
   </a>
 </p>
 
@@ -152,5 +148,5 @@ A curated selection of programming languages, frameworks, runtime environments, 
 <summary><b>🔍 Search Engine & Canonical Metadata Index</b></summary>
 <br/>
 
-This repository and profile document the verified software development and cyber security portfolio of **Christian Luis Paskalis Ginting** (GitHub: **christianLuis07**). Key specializations: Software Development, Full-Stack Web Development, Cyber Security, .NET, Next.js, FastAPI, Python, TypeScript, and Application Security in Indonesia.
+Official developer profile and GitHub repository of **Christian Luis Paskalis Ginting** (GitHub: **christianLuis07**). Focused on **Software Developer**, **Cyber Security Student**, and **AI Engineer Enthusiast** with expertise in .NET, Next.js, FastAPI, TypeScript, Python, and secure web application development.
 </details>
